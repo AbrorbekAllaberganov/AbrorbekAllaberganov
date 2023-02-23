@@ -15,7 +15,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://t.me/Allaberganov_Abror">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="https://t.me/Allaberganov_Abror"/>
   </a>
   <a href="your-youtube-URL">
