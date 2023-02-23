@@ -6,5 +6,4 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Full Level Service
-- 📫 How to reach me: ...
-- 😄 Pronouns: abror.developer@gmail.com
+- 📫 How to reach me:  abror.developer@gmail.com
